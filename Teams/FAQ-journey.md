@@ -85,7 +85,7 @@ We expect to have more information to share regarding the extensibility offering
 
 ### Will you support third-party development opportunities in Teams?
 
-Yes. We currently support third-party bots, connectors, and extensions in Teams. In addition, we anticipate having third-party developer communication add-ons avaialable in 2018.
+Yes. We currently support third-party bots, connectors, and extensions in Teams. In addition, we anticipate having third-party developer communication add-ons available in 2018.
 
 ### Is Teams available in Office 365 Education and Government plans?
 
